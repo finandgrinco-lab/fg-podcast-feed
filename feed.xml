@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FG — Own Your Power</title>
+    <link>https://fg-ownyourpower.com</link>
+    <language>en-us</language>
+    <description>Trauma-informed, practical guidance on bullying prevention, cyberbullying, toxic relationships, boundaries, and recovery — from FG, an anti-bullying platform with 40+ tools.</description>
+    <itunes:author>FG — Own Your Power</itunes:author>
+    <itunes:summary>Anti-bullying, boundaries, and recovery — trauma-informed and practical.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    <itunes:category text="Education"/>
+    <itunes:owner>
+      <itunes:name>FG — Own Your Power</itunes:name>
+      <itunes:email>finandgrinco@gmail.com</itunes:email>
+    </itunes:owner>
+    <lastBuildDate>Mon, 22 Jun 2026 16:49:13 +0000</lastBuildDate>
+    <item>
+      <title>Cyberbullying | FG Own Your Power</title>
+      <description>Cyberbullying | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/621dki.m4a" length="102580137" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-cyberbullying.m4a</guid>
+      <pubDate>Sun, 21 Jun 2026 22:45:24 +0000</pubDate>
+      <itunes:duration>00:53:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Empowerment Faith | FG Own Your Power</title>
+      <description>Empowerment Faith | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/s3q5tt.m4a" length="43979881" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-empowerment-faith.m4a</guid>
+      <pubDate>Sun, 21 Jun 2026 22:11:25 +0000</pubDate>
+      <itunes:duration>00:22:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>FG Podcast Pack - Cyberbullying Protection - Part 01</title>
+      <description>FG Podcast Pack - Cyberbullying Protection - Part 01 — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/kezcvi.m4a" length="76345090" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-factory-cyberbullying-01.m4a</guid>
+      <pubDate>Sun, 07 Jun 2026 02:55:48 +0000</pubDate>
+      <itunes:duration>00:39:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>FG Podcast Pack - Cyberbullying Protection - Part 02</title>
+      <description>FG Podcast Pack - Cyberbullying Protection - Part 02 — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/nd0jbq.m4a" length="76895889" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-factory-cyberbullying-02.m4a</guid>
+      <pubDate>Sun, 07 Jun 2026 04:58:58 +0000</pubDate>
+      <itunes:duration>00:39:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>FG Podcast Pack - Empowerment Faith And Boundaries - Part 01</title>
+      <description>FG Podcast Pack - Empowerment Faith And Boundaries - Part 01 — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/64bc36.m4a" length="72746823" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-factory-empowerment-faith-01.m4a</guid>
+      <pubDate>Sun, 07 Jun 2026 20:59:57 +0000</pubDate>
+      <itunes:duration>00:37:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>FG Podcast Pack - Empowerment Faith And Boundaries - Part 02</title>
+      <description>FG Podcast Pack - Empowerment Faith And Boundaries - Part 02 — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/8nsmb5.m4a" length="94745285" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-factory-empowerment-faith-02.m4a</guid>
+      <pubDate>Fri, 12 Jun 2026 23:44:04 +0000</pubDate>
+      <itunes:duration>00:49:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>FG Podcast Pack - Empowerment Faith And Boundaries - Part 03</title>
+      <description>FG Podcast Pack - Empowerment Faith And Boundaries - Part 03 — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/oh7vk4.m4a" length="82184537" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-factory-empowerment-faith-03.m4a</guid>
+      <pubDate>Sat, 13 Jun 2026 01:45:01 +0000</pubDate>
+      <itunes:duration>00:42:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>FG Podcast Pack - Empowerment Faith And Boundaries - Part 04</title>
+      <description>FG Podcast Pack - Empowerment Faith And Boundaries - Part 04 — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/avjos4.m4a" length="83591790" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-factory-empowerment-faith-04.m4a</guid>
+      <pubDate>Sat, 13 Jun 2026 03:45:46 +0000</pubDate>
+      <itunes:duration>00:43:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>FG Podcast Pack - Empowerment Faith And Boundaries - Part 05</title>
+      <description>FG Podcast Pack - Empowerment Faith And Boundaries - Part 05 — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/1eicb6.m4a" length="79129599" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-factory-empowerment-faith-05.m4a</guid>
+      <pubDate>Fri, 19 Jun 2026 23:03:43 +0000</pubDate>
+      <itunes:duration>00:40:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>FG Podcast Pack - Empowerment Faith And Boundaries - Part 06</title>
+      <description>FG Podcast Pack - Empowerment Faith And Boundaries - Part 06 — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/amo1yg.m4a" length="94613059" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-factory-empowerment-faith-06.m4a</guid>
+      <pubDate>Sat, 20 Jun 2026 19:04:43 +0000</pubDate>
+      <itunes:duration>00:48:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>FG Podcast Pack - Empowerment Faith And Boundaries - Part 07</title>
+      <description>FG Podcast Pack - Empowerment Faith And Boundaries - Part 07 — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/1mb56e.m4a" length="59763766" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-factory-empowerment-faith-07.m4a</guid>
+      <pubDate>Sun, 21 Jun 2026 19:31:15 +0000</pubDate>
+      <itunes:duration>00:30:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Psychology Trauma | FG Own Your Power</title>
+      <description>Psychology Trauma | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/mzuuxz.m4a" length="74683096" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-psychology-trauma.m4a</guid>
+      <pubDate>Sun, 21 Jun 2026 22:47:00 +0000</pubDate>
+      <itunes:duration>00:38:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>School Kids | FG Own Your Power</title>
+      <description>School Kids | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/cihlbg.m4a" length="85575127" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-school-kids.m4a</guid>
+      <pubDate>Sun, 21 Jun 2026 22:45:44 +0000</pubDate>
+      <itunes:duration>00:44:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Toxic Relationships | FG Own Your Power</title>
+      <description>Toxic Relationships | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/qhk0bi.m4a" length="100633405" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-toxic-relationships.m4a</guid>
+      <pubDate>Sun, 21 Jun 2026 22:46:23 +0000</pubDate>
+      <itunes:duration>00:52:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Workplace | FG Own Your Power</title>
+      <description>Workplace | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/j03mbp.m4a" length="83205339" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-workplace.m4a</guid>
+      <pubDate>Sun, 21 Jun 2026 22:45:33 +0000</pubDate>
+      <itunes:duration>00:43:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Natures Embrace Healing Nature Therapy | FG Own Your Power</title>
+      <description>Natures Embrace Healing Nature Therapy | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/qttxe0.mp3" length="5049407" type="audio/mpeg"/>
+      <guid isPermaLink="false">natures-embrace-healing-nature-therapy-fixed.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:05:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Natures Embrace Healing Nature Therapy Trimmed 20260416 032001 | FG Own Your Power</title>
+      <description>Natures Embrace Healing Nature Therapy Trimmed 20260416 032001 | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/vknw1m.mp3" length="4060597" type="audio/mpeg"/>
+      <guid isPermaLink="false">natures-embrace-healing-nature-therapy-trimmed-20260416-032001.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:04:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Natures Embrace Healing Nature Therapy V2 | FG Own Your Power</title>
+      <description>Natures Embrace Healing Nature Therapy V2 | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/d4kpfq.mp3" length="7453718" type="audio/mpeg"/>
+      <guid isPermaLink="false">natures-embrace-healing-nature-therapy-v2.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:05:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Natures Embrace Healing Nature Therapy V3 | FG Own Your Power</title>
+      <description>Natures Embrace Healing Nature Therapy V3 | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/d4kpfq.mp3" length="7453718" type="audio/mpeg"/>
+      <guid isPermaLink="false">natures-embrace-healing-nature-therapy-v3.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:05:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Natures Embrace Healing Nature Therapy V4 | FG Own Your Power</title>
+      <description>Natures Embrace Healing Nature Therapy V4 | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/0ct5dp.mp3" length="4521795" type="audio/mpeg"/>
+      <guid isPermaLink="false">natures-embrace-healing-nature-therapy-v4.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Natures Embrace Healing Nature Therapy V5 | FG Own Your Power</title>
+      <description>Natures Embrace Healing Nature Therapy V5 | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/ck9ygp.mp3" length="4095202" type="audio/mpeg"/>
+      <guid isPermaLink="false">natures-embrace-healing-nature-therapy-v5.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:04:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Natures Embrace Healing Nature Therapy V6 | FG Own Your Power</title>
+      <description>Natures Embrace Healing Nature Therapy V6 | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/vknw1m.mp3" length="4060597" type="audio/mpeg"/>
+      <guid isPermaLink="false">natures-embrace-healing-nature-therapy-v6.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:04:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Power Lesson 1 | FG Own Your Power</title>
+      <description>Power Lesson 1 | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/l4bcue.mp3" length="876504" type="audio/mpeg"/>
+      <guid isPermaLink="false">power-lesson-1.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:00:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Power Lesson 2 | FG Own Your Power</title>
+      <description>Power Lesson 2 | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/8seg4p.mp3" length="588948" type="audio/mpeg"/>
+      <guid isPermaLink="false">power-lesson-2.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:00:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Toxic High Vo | FG Own Your Power</title>
+      <description>Toxic High Vo | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/aajlxt.mp3" length="1532039" type="audio/mpeg"/>
+      <guid isPermaLink="false">toxic-high-vo.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Toxic Low Vo | FG Own Your Power</title>
+      <description>Toxic Low Vo | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/l6nwax.mp3" length="1340891" type="audio/mpeg"/>
+      <guid isPermaLink="false">toxic-low-vo.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Toxic Rel Quiz Vo | FG Own Your Power</title>
+      <description>Toxic Rel Quiz Vo | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/ba594c.mp3" length="534613" type="audio/mpeg"/>
+      <guid isPermaLink="false">toxic-rel-quiz-vo.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:00:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Toxic Warn Vo | FG Own Your Power</title>
+      <description>Toxic Warn Vo | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
+      <enclosure url="https://files.catbox.moe/2gp9fn.mp3" length="1432843" type="audio/mpeg"/>
+      <guid isPermaLink="false">toxic-warn-vo.mp3</guid>
+      <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+  </channel>
+</rss>
