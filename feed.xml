@@ -17,7 +17,7 @@
       <itunes:name>FG — Own Your Power</itunes:name>
       <itunes:email>finandgrinco@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 22 Jun 2026 16:52:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 02:10:01 +0000</lastBuildDate>
     <item>
       <title>Cyberbullying | FG Own Your Power</title>
       <description>Cyberbullying | FG Own Your Power — trauma-informed, practical guidance from FG, an anti-bullying platform. fg-ownyourpower.com</description>
@@ -295,6 +295,16 @@
       <guid isPermaLink="false">toxic-warn-vo.mp3</guid>
       <pubDate>Wed, 13 May 2026 01:43:48 +0000</pubDate>
       <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
+    </item>
+    <item>
+      <title>Top 10 Trending GitHub Repos This Week | FG Own Your Power</title>
+      <description>Top 10 Trending GitHub Repos This Week — Skills are the new apps. This episode breaks down the fastest-growing open-source AI agent repos, why they matter, and how to use them. Source: youtube.com/watch?v=VeNWtD_eN2s</description>
+      <enclosure url="https://files.catbox.moe/nrb03i.m4a" length="1925374" type="audio/mp4"/>
+      <guid isPermaLink="false">fg-podcast-github-trending-skills.m4a</guid>
+      <pubDate>Wed, 24 Jun 2026 02:10:01 +0000</pubDate>
+      <itunes:duration>00:11:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://files.catbox.moe/5v81is.jpg"/>
     </item>
